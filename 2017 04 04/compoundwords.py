@@ -17,8 +17,6 @@ def get_compounds(words):
 
 words = []
 
-x = 0
-
 for i in sys.stdin:
     words += i.split()
 
