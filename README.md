@@ -1,2 +1,3 @@
-# ICPC
-Penn State ICPC problems
+# icpc
+
+My solutions to Penn State ICPC problems
