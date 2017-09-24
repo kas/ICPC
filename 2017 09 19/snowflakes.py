@@ -43,4 +43,3 @@ for line in sys.stdin:
     else:
         current_count += 1
         current_snowflake += 1
-

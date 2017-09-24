@@ -25,4 +25,3 @@ else:
     output_minutes = difference
 
 print('{} {}'.format(output_hours, output_minutes))
-

@@ -14,4 +14,3 @@ for j in range(0, len(input_string)):
         i = 0
 
 print(days)
-

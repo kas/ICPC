@@ -8,4 +8,3 @@ while True:
         print('yes')
     else:
         print('no')
-
