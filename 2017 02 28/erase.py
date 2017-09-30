@@ -12,7 +12,7 @@ def validate(n, a, b):
                 new += '1'
             else:
                 new += '0'
-        
+
         if new == b:
             successful = True
 
